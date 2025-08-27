@@ -1,3 +1,5 @@
+package Design_patterns.Creational_Pattern.Singleton_Pattern;
+
 public class main {
     public static void main(String[] args) {
         // Multiple references to the same instance

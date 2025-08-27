@@ -1,4 +1,4 @@
-package Design_patterns.Builder_Pattern;
+package Design_patterns.Creational_Pattern.Builder_Pattern;
 import java.util.*;
 
 public class Main {
